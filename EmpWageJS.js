@@ -15,7 +15,7 @@ function getWorkingHours(empCheck) {
     }
 }  
  
-//UC 4
+//UC 4 Calculating Wages for Month
 const NUM_OF_WORKING_DAYS = 2;
 let empHrs = 0;
 for (let day = 0; day < NUM_OF_WORKING_DAYS; day++) {
