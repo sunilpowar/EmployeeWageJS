@@ -131,7 +131,7 @@ console.log("Full Working Days : " + fullWorkingDays);
 console.log("Part Working Days : " + partWorkingDays);
 console.log("Non Working Days : " + nonWorkingDays);
 
-// UC 10 Object Creation
+// UC 10 Object Creation 
 
 let totalEmpHrs = 0;
 let totalWorkingDays = 0;
